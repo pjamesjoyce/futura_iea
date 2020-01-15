@@ -20,9 +20,6 @@ setup(
         'futura_plugins': [
             'iea = futura_iea.iea:main'
         ],
-        'console_scripts': [
-            'iea = futura_iea.iea:main'
-        ]
     },
     # install_requires=[
     # ],
